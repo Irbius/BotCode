@@ -9,7 +9,7 @@ buildscript {
         classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
     }
 }
-
+//
 
 group 'com.viber'
 version '1.0-SNAPSHOT'
